@@ -8,13 +8,13 @@
 **Comando MongoDB**
 ```javascript
 db.funcionarios.insertOne({
-  "nome": "Ana",
-  "sobrenome": "Silva",
-  "data_nascimento": "1990-01-01",
+  "nome": "Victor Wilker",
+  "sobrenome": "Andrade",
+  "data_nascimento": "2004-23-12",
   "data_contratacao": "2020-01-01",
   "salario": 5000,
   "departamento": ObjectId("85992103f9b3e0b3b3c1fe74"),
-  "cargo": "Desenvolvedora",
+  "cargo": "Desenvolvedor",
   "escritorio": "São Paulo"
 })
 ```
