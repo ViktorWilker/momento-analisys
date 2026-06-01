@@ -1,6 +1,4 @@
-# Curso MongoDB - Empresa Momento
-## Solução dos Níveis 1 a 6
-
+#Empresa Momento
 ---
 
 ## Nível 1: Conhecendo a Empresa
